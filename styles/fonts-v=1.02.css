@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "NHaasGrotesk";
+  src: url("../fonts/NHaasGroteskDSW01-35XLt-.eot#iefix");
+  src: url("../fonts/NHaasGroteskDSW01-35XLt-.eot#iefix") format("eot"), url("../fonts/NHaasGroteskDSW01-35XLt.woff2") format("woff2"), url("../fonts/NHaasGroteskDSW01-35XLt.woff") format("woff"), url("../fonts/NHaasGroteskDSW01-35XLt.ttf") format("truetype"), url("../fonts/NHaasGroteskDSW01-35XLt.svg#43359da7-974a-446d-a926-922bfbc90115") format("svg");
+  font-weight: 100; }
+
+@font-face {
+  font-family: "NHaasGrotesk";
+  src: url("../fonts/NeueHaasGroteskReg-.eot#iefix");
+  src: url("../fonts/NeueHaasGroteskReg-.eot#iefix") format("eot"), url("../fonts/NeueHaasGroteskReg.woff2") format("woff2"), url("../fonts/NeueHaasGroteskReg.woff") format("woff"), url("../fonts/NeueHaasGroteskReg.ttf") format("truetype"), url("../fonts/NeueHaasGroteskReg.svg#5b9068b3-d518-4b0a-a5a2-1aa25714df22") format("svg");
+  font-weight: 200; }
+
+@font-face {
+  font-family: "NHaasGrotesk";
+  src: url("../fonts/NHaasGroteskDSW01-65Md-.eot#iefix");
+  src: url("../fonts/NHaasGroteskDSW01-65Md-.eot#iefix") format("eot"), url("../fonts/NHaasGroteskDSW01-65Md.woff2") format("woff2"), url("../fonts/NHaasGroteskDSW01-65Md.woff") format("woff"), url("../fonts/NHaasGroteskDSW01-65Md.ttf") format("truetype"), url("../fonts/NHaasGroteskDSW01-65Md.svg#1baaf9ba-feec-45ca-a826-7bcf9f8e5b21") format("svg");
+  font-weight: 300; }
+
+@font-face {
+  font-family: "NHaasGrotesk";
+  src: url("../fonts/NHaasGroteskDSW01-15Ult-.eot#iefix");
+  src: url("../fonts/NHaasGroteskDSW01-15Ult-.eot#iefix") format("eot"), url("../fonts/NHaasGroteskDSW01-15Ult.woff2") format("woff2"), url("../fonts/NHaasGroteskDSW01-15Ult.woff") format("woff"), url("../fonts/NHaasGroteskDSW01-15Ult.ttf") format("truetype"), url("../fonts/NHaasGroteskDSW01-15Ult.svg#43359da7-974a-446d-a926-922bfbc90115") format("svg");
+  font-weight: 400; }
+
+body {
+  font-family: 'NHaasGrotesk', sans-serif; }
+
